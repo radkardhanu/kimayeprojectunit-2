@@ -9,9 +9,7 @@
     border:1px solid red;
     /* margin-top:300px; */
     /* border:1px solid red; */
-    margin-bottom: -400px;
-    gap:20px;
-} */
+   
 
 
 
@@ -62,7 +60,7 @@ h3{
         #footer{
             
                 height:370px;
-                width:100%;
+                width:90%;
                 /* border:1px solid red; */
                 background-color:rgba(44, 119, 54, 0.7);
     
@@ -92,7 +90,7 @@ h3{
             padding: 10px 10px;
             margin: 5px;
             font-size: 10px;
-            border-radius:100%;
+            border-radius:90%;
             background-color: grey;
         }
         #copy{
@@ -118,7 +116,7 @@ h3{
         } 
         .social{
             background-color: blue;
-            width: 100%;
+            width: 90%;
             display: grid;
             justify-content: space-between;
             justify-content: space-around;
@@ -131,7 +129,7 @@ h3{
             gap: 50px;
         }
         .social_facebook{
-            width: 100%;
+            width: 90%;
             margin-left: 100px;
             background-color: #4267B2;
             color: white;
@@ -143,7 +141,7 @@ h3{
           font-size: 15px;
         }
         .social_google{
-            width: 100%;
+            width: 90%;
             background-color: #db3236;
             color: white;
             text-decoration: none;
@@ -169,7 +167,7 @@ h3{
         background-color: rgb(17, 109, 63);
         color: white;
         text-align: center;
-        width: 100%;
+        width: 90%;
         padding: 10px 0;
     }
        .fa_img::before{
@@ -180,7 +178,7 @@ h3{
         }
         col>a>button{
             display: block;
-            width: 100%;
+            width: 90%;
             margin: 10px auto;
             padding: 10px;
             display: flex;

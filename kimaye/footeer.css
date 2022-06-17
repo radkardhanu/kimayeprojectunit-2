@@ -46,7 +46,7 @@
             
                 margin-top:100px;
                 height:500px;
-                width:100%;
+                width:900%;
                 /* border:1px solid red; */
                 background-color:rgba(44, 119, 54, 0.7);
     
@@ -134,7 +134,7 @@
         } 
         .social{
             background-color: blue;
-            width: 100%;
+            width: 90%;
             display: grid;
             justify-content: space-between;
             justify-content: space-around;
@@ -148,7 +148,7 @@
         }
         .social_facebook{
             width: 100%;
-            margin-left: 100px;
+            margin-left: 90px;
             background-color: #4267B2;
             color: white;
             text-decoration: none;
@@ -159,7 +159,7 @@
           font-size: 15px;
         }
         .social_google{
-            width: 100%;
+            width: 90%;
             background-color: #db3236;
             color: white;
             text-decoration: none;
@@ -184,7 +184,7 @@
         }
         col>a>button{
             display: block;
-            width: 100%;
+            width: 90%;
             margin: 10px auto;
             padding: 10px;
             display: flex;
@@ -205,7 +205,7 @@
             background-color: rgb(61, 61, 200);
             color: white;
             display: block;
-            width: 100%;
+            width: 90%;
             margin: 10px auto;
             padding: 10px;
             display: flex;
@@ -219,7 +219,7 @@
             background-color: rgb(246, 75, 75);
             color: white;
             display: block;
-            width: 100%;
+            width:90%;
             margin: 10px auto;
             padding: 10px;
             display: flex;

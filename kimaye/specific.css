@@ -153,7 +153,7 @@ em::after{
         #footer{
             margin-top:-200px;
                 height:370px;
-                width:100%;
+                width:90%;
                 /* border:1px solid red; */
                 background-color:rgba(44, 119, 54, 0.7);
     
@@ -205,14 +205,14 @@ em::after{
         #footLogo{
             width: 400px;
             margin-top:50px;
-            margin-right:-1000px;
+            margin-right:-600px;
             margin-left:450px;
         }
         footer>#footLogo>a{
             padding: 10px 10px;
             margin: 5px;
             font-size: 10px;
-            border-radius:100%;
+            border-radius:90%;
             background-color: grey;
         }
         #copy{
@@ -288,7 +288,7 @@ em::after{
         }
         col>a>button{
             display: block;
-            width: 100%;
+            width: 90%;
             margin: 10px auto;
             padding: 10px;
             display: flex;
@@ -309,7 +309,7 @@ em::after{
             background-color: rgb(61, 61, 200);
             color: white;
             display: block;
-            width: 100%;
+            width: 90%;
             margin: 10px auto;
             padding: 10px;
             display: flex;
@@ -323,7 +323,7 @@ em::after{
             background-color: rgb(246, 75, 75);
             color: white;
             display: block;
-            width: 100%;
+            width: 90%;
             margin: 10px auto;
             padding: 10px;
             display: flex;
