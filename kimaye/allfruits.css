@@ -133,7 +133,7 @@
        #icon{
         height:50px;
         width:400px;
-        border:1px solid red;
+        /* border:1px solid red; */
         margin-left:200px;
         }
     #map{
@@ -177,6 +177,14 @@
             margin-left:300px;
             /* grid-template-columns: repeat(3,1fr);
             grid-template-rows: repeat(6,200px); */
+        }
+        #spec{
+            height:50px;
+            width:250px;
+            border:black;
+            margin-top:20px;
+            margin-left: -300px;
+            color:white;
         }
 
         #containt>row{

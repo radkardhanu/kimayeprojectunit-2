@@ -41,10 +41,10 @@
         /* border:1px solid black; */
        
     }
-    #img1{
+    #pic{
         margin-left:-800px;
         height:50px;
-        width:100px;
+        width:50px;
         margin-top:-00px;
 
     }
@@ -150,6 +150,7 @@
             height:50px;
             width:700px;
             margin:auto;
+          
             
             /* margin-top:300px; */
             /* border:1px solid red; */
