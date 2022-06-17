@@ -46,7 +46,7 @@
         height:50px;
         width:400px;
         /* border:1px solid ; */
-        margin-left:100px;
+        margin-left:00px;
         }
     #map{
         height:60px;
@@ -269,7 +269,7 @@ em::after{
     
            
         }
-        footer>div{
+        #footer>div{
             height:50px;
             width: 70%;
             display: flex;
@@ -278,25 +278,25 @@ em::after{
             align-items: flex-start;
             font-size: 12px;
         }
-        footer>div>div *{
+        #footer>div>div *{
             margin-bottom: 20px;
             text-decoration: none;
             color: rgb(29, 28, 28);
             margin-top:30px;
             
         }
-        footer div>h2{
+        #footer div>h2{
             font-size: 20px;
             color: rgb(51, 51, 51);
             font-weight: lighter;
         }
-        footer div>div>input{
+        #footer div>div>input{
             height: 40px;
             width: 200px;
             border: none;
             box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
         }
-        footer div>div>button{
+        #footer div>div>button{
             height: 40px;
             width: auto;
             border: none;
@@ -361,7 +361,7 @@ em::after{
             gap: 50px;
         }
         .social_facebook{
-            width: 90%;
+            width: 50%;
             margin-left: 100px;
             background-color: #4267B2;
             color: white;
@@ -373,7 +373,7 @@ em::after{
           font-size: 15px;
         }
         .social_google{
-            width: 90%;
+            width: 50%;
             background-color: #db3236;
             color: white;
             text-decoration: none;
@@ -442,4 +442,8 @@ em::after{
             border: none;
             font-size: 18px;
             border-radius: 8px;
+        }
+        input{
+            height:40px;
+            width:50%;
         }
